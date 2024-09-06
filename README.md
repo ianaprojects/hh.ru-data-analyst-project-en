@@ -1,5 +1,5 @@
 # Research on Entry-Level Data Analyst Jobs in Russia on hh.ru: Skills, Salary Trends, and Job Geography
-link to Jupyter Notebook
+## [Link to Jupyter Notebook](https://github.com/ianaprojects/hh.ru-data-analyst-project-en/blob/main/hh_project_script_en.ipynb)
 ## Project Description
 This project analyzes job openings for entry-level and junior data analyst positions using data from the popular Russian job platform hh.ru. 
 The goal of this project is to analyze data analyst job openings with a focus on entry-level and junior positions. Using data from the popular Russian job platform hh.ru, the project seeks to gather insights into the skills required and the salary levels associated with junior data analyst roles.
